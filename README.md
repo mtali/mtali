@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuel_mtali" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_mtali?logo=twitter&style=for-the-badge" alt="emmanuel_mtali" /></a> </p>
 
-- 🔭 I’m currently working on **GoPods**
+- 🔭 I’m currently working at **Jaza Energy**
 
-- 🌱 I’m currently learning **Jetpack Compose, App Icon Design,**
+- 🌱 Happy to use  **Jetpack Compose** in production
 
-- 📝 I regularly write articles on [https://mtlblog.herokuapp.com/](https://mtlblog.herokuapp.com/)
+- 📝 I regularly write articles on [https://mtlblog.herokuapp.com/](https://mtlblog.herokuapp.com/), definelty need to update this
 
 - 📫 How to reach me **mtali.emmanuel@protonmail.com**
 

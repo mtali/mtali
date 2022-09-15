@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working at **Jaza Energy**
 
-- 🌱 Happy to use  **Jetpack Compose** in production
+- 🌱 Mostly cuntributing on private projects [GitLab](https://gitlab.com/emmanuelmtali)
 
-- 📝 I regularly write articles on [https://mtlblog.herokuapp.com/](https://mtlblog.herokuapp.com/), definelty need to update this
+- 😌 Happy to use  **Jetpack Compose** in production
+
+- 📝 I regularly write articles on [My Blog](https://mtlblog.herokuapp.com/), definelty need to update this
 
 - 📫 How to reach me **mtali.emmanuel@protonmail.com**
 

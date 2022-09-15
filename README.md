@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Jaza Energy**
 
-- 🌱 Mostly cuntributing on private projects [GitLab](https://gitlab.com/emmanuelmtali)
+- 🌱 Work related contributions [GitLab](https://gitlab.com/emmanuelmtali)
 
 - 😌 Happy to use  **Jetpack Compose** in production
 

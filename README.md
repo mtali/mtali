@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuel_mtali" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_mtali?logo=twitter&style=for-the-badge" alt="emmanuel_mtali" /></a> </p>
 
-- 🔭 I’m currently working at **Jaza Energy**
-
-- 🌱 Work related contributions [GitLab](https://gitlab.com/emmanuelmtali)
+- 🔭 I’m currently working at **Airtel Tanzania**
 
 - 😌 Happy to use  **Jetpack Compose** in production
 

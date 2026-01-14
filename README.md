@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuel_mtali" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_mtali?logo=twitter&style=for-the-badge" alt="emmanuel_mtali" /></a> </p>
 
-- 🔭 I’m currently working at **Airtel Tanzania**
+- 🔭 I’m currently working at **Jaza Energy**
 
 - 😌 Happy to use  **Jetpack Compose** in production
 
-- 📝 I regularly write articles on [My Blog](https://mtlblog.herokuapp.com/), definelty need to update this
-
 - 📫 How to reach me **mtali.emmanuel@protonmail.com**
 
-- ⚡ Fun fact **I don't have wings**
+- ⚡ Fun fact **I love Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
